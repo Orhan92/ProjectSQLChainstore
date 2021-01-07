@@ -6,4 +6,4 @@ CONTAINS:
 
 -Screenshot on the database diagram
 
--Detailed description of the database (in PDF-format)
+-Detailed description of the database (in PDF-format), Note that this section will be written in Swedish.
